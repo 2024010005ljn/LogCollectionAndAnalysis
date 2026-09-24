@@ -168,7 +168,7 @@ cat /etc/rsyslog.d/50-default.conf
 
 > **记录**：`/etc/rsyslog.d/` 下除了 `50-default.conf`，还有哪些 `.conf` 文件？
 >
-> 答：
+> 答：20-ufw.conf、21-cloudinit.conf
 
 ### 3.2 默认规则
 
