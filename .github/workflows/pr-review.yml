@@ -45,7 +45,9 @@ jobs:
           run-id: ${{ github.event.workflow_run.id }}
 
       - name: 使用共享审核器审核并处理 PR
-        uses: LiuXiYing/course-pr-reviewer@ca0ca30826f6b8c4b06b0417c02885bbcf91d947 # v0.11.0：新作业模板数量检查
+        # 跟随审核器 main：审核器一发版，本课立即生效（与数据结构、网络安全工具课一致）。
+        # 需要临时冻结某个版本时，把下面这行换成该版本的完整 SHA。
+        uses: LiuXiYing/course-pr-reviewer@main
         with:
           config-path: .github/course-review.yml
           students-path: .github/students.yml

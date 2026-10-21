@@ -158,10 +158,10 @@ students:
     name: 邹艳梅
     github: zou-yanmei
     active: true
-  "2024010040":
-    name: 张哲
-    github: 123zhangzhe
-    active: true
+  # "2024010040":
+  #   name: 张哲
+  #   github: 123zhangzhe
+  #   active: true
   "2024141036":
     name: 杜佳玉
     github: yyyfischer
