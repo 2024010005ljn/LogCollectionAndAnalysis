@@ -1,0 +1,78 @@
+{
+  "assignments": {
+    "Lab1": {
+      "deadline": "2026-09-10T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab10": {
+      "deadline": "2026-11-19T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "tiered",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab2": {
+      "deadline": "2026-09-17T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab3": {
+      "deadline": "2026-09-24T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab4": {
+      "deadline": "2026-10-08T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab5": {
+      "deadline": "2026-10-15T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab6": {
+      "deadline": "2026-10-22T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab7": {
+      "deadline": "2026-10-29T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab8": {
+      "deadline": "2026-11-05T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    },
+    "Lab9": {
+      "deadline": "2026-11-12T23:59:59+08:00",
+      "finalized": 0,
+      "mode": "legacy",
+      "receipts": 0,
+      "scored": 0
+    }
+  },
+  "course_id": "log-collection-and-analysis",
+  "errors": 0,
+  "generated_at": "2026-11-13T01:09:09.459107+00:00",
+  "schema_version": 1
+}
